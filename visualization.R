@@ -37,16 +37,12 @@ ggplot(aes(x=vs, y=mpg, fill = vs), data = mtcars) +
   theme(legend.position="none")
 
 ggplot(aes(x=wt),data=mtcars) + geom_histogram(binwidth=0.8)
-
-
-
-
-
-
-
-
-
-
+##########################################################
+##################################
+##############################
+########################
+#################
+#########""
 library(datasets)
 data(iris)
 
